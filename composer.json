@@ -93,5 +93,10 @@
       "phpdocumentor/shim": true
     },
     "sort-packages": true
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-main": "0.8.x-dev"
+    }
   }
 }
